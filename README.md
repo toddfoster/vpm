@@ -1,6 +1,8 @@
 # vpm
 Vim Python Menus
 
+**FALSE ALERT**? *I went to add a hotkey to my vimrc to activate this. I discovered I had already installed [vim-quickui](https://github.com/skywind3000/vim-quickui/). It's pure vimscript but could still call out to my python scripts. And the UI is already more than adequate for my needs. It may not (or may!) have the infinite nesting possibilities of a hydra. But I think it will be more than sufficient for me.* 
+
 I want the functionality of hydras from emacs. In vim. Written in python.
 
 These are menus I define, activated by a key (or a series of keys to traverse a
